@@ -106,10 +106,3 @@ g:bool=True
 
 print(type(g))
 print("This is a example of Boolean: ",g)
-
-
-
-# Python programming most frequently used keywords.
-
-# Keywords in Python are case sensitive.
-
